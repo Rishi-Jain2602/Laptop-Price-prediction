@@ -1,5 +1,11 @@
 # Laptop-Price-Predictor
 A website for predicting the price of the laptop using machine learning.
+
+
+
+https://github.com/Rishi-Jain2602/Laptop-Price-prediction/assets/118871883/4449859b-14fa-47df-a401-22f7794fa766
+
+
 ***
 
 
