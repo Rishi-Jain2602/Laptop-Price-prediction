@@ -15,5 +15,19 @@ pip install -r requirements.txt
 Download the following pre-trained model files:
 - df.pkl
 - pipe.pkl
-3. Download Dataset
+4. Download Dataset
 - laptop_data.csv
+
+### Usage
+Now after installing all the required files and modules, you can use the model by running the following command:
+```bash
+python page.py
+```
+This will execute the page.py script, which uses the pre-trained model (df.pkl and pipe.pkl) on the provided dataset (laptop_data.csv).
+
+***
+
+### Note
+1. Make sure you have Python 3.x installed
+2. It is recommended to use a virtual environment to avoid conflict with other projects.
+3. If you encounter any issue during installation or usage please contact [rishijainai262003@gmail.com] or [rj1016743@gmail.com]
