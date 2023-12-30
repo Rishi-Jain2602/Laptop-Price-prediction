@@ -80,10 +80,15 @@ EDA involved exploring the sales data to answer key questions, such as:
 - It can handle Overfitting and non-linearity.
 - Can be applied to various type of data including Numerical and categorical data
 #### Limitation
-- Higher the number of trees lead to better performance but upto a certain extent. 
+- Higher the number of trees lead to better performance but upto a certain extent.
+***
+### Results
+Its accuracy was coming out to be 88.79% and mean absolute error is 15.8%
 
+![results](https://github.com/Rishi-Jain2602/Laptop-Price-prediction/assets/118871883/cc99b85e-af70-4590-a8ca-86b788e5b41e)
 ***
 ### Note
+
 1. Make sure you have Python 3.x installed
 2. It is recommended to use a virtual environment to avoid conflict with other projects.
 3. If you encounter any issue during installation or usage please contact rishijainai262003@gmail.com or rj1016743@gmail.com
