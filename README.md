@@ -79,7 +79,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 3. What screen size and Screen Resolution did people prefer? 
 
 ### Type of Algorithm used for Model
- ** Random Forest Regression **
+  **Random Forest Regression**
 - It is basically belongs to Family of Decision tree
 - A decision tree is a flowchart-like structure where each internal node represents a decision based on the value of a particular feature, each branch represents the outcome of that decision, and each leaf node represents the final prediction or decision.
 #### Advantage
