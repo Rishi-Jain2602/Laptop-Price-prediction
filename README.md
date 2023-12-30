@@ -30,4 +30,4 @@ This will execute the page.py script, which uses the pre-trained model (df.pkl a
 ### Note
 1. Make sure you have Python 3.x installed
 2. It is recommended to use a virtual environment to avoid conflict with other projects.
-3. If you encounter any issue during installation or usage please contact [rishijainai262003@gmail.com] or [rj1016743@gmail.com]
+3. If you encounter any issue during installation or usage please contact rishijainai262003@gmail.com or [rj1016743@gmail.com]
