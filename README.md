@@ -13,15 +13,16 @@ pip install -r requirements.txt
 ```
 3. Download Model Files
 Download the following pre-trained model files:
-- df.pkl
-- pipe.pkl
+- df.pkl: Pickle file containing preprocessed data
+- pipe.pkl: Pickle file containing trained model pipeline 
+- page.py: Python script for streamlit web application
 4. Download Dataset
 - laptop_data.csv
 
 ### Usage
-Now after installing all the required files and modules, you can use the model by running the following command:
+Now after installing all the required files and modules, you can use the model by running the following command in the terminal:
 ```bash
-python page.py
+streamlit run page.py
 ```
 This will execute the page.py script, which uses the pre-trained model (df.pkl and pipe.pkl) on the provided dataset (laptop_data.csv).
 
@@ -30,4 +31,4 @@ This will execute the page.py script, which uses the pre-trained model (df.pkl a
 ### Note
 1. Make sure you have Python 3.x installed
 2. It is recommended to use a virtual environment to avoid conflict with other projects.
-3. If you encounter any issue during installation or usage please contact rishijainai262003@gmail.com or [rj1016743@gmail.com]
+3. If you encounter any issue during installation or usage please contact rishijainai262003@gmail.com or rj1016743@gmail.com
